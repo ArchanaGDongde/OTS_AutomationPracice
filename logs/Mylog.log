@@ -1,14 +1,14 @@
-[DEBUG] 2022-11-29 14:07:44.711 [main] LoggingDemo - opening webiste
-[DEBUG] 2022-11-29 14:07:44.737 [main] LoggingDemo - entering weight
-[DEBUG] 2022-11-29 14:07:44.845 [main] LoggingDemo - selecting kilograms
-[DEBUG] 2022-11-29 14:07:44.908 [main] LoggingDemo - selecting height in feet
-[DEBUG] 2022-11-29 14:07:44.968 [main] LoggingDemo - selecting height in inchs
-[DEBUG] 2022-11-29 14:07:45.020 [main] LoggingDemo - Clicking on calculate
-[DEBUG] 2022-11-29 14:07:45.092 [main] LoggingDemo - Getting SIUnit value
-[DEBUG] 2022-11-29 14:07:45.145 [main] LoggingDemo - Getting USUnit value
-[DEBUG] 2022-11-29 14:07:45.175 [main] LoggingDemo - Getting UKUnit value
-[DEBUG] 2022-11-29 14:07:45.202 [main] LoggingDemo - Getting overall description
-[INFO ] 2022-11-29 15:26:50.428 [main] Log4jTest - This is information
-[ERROR] 2022-11-29 15:26:50.435 [main] Log4jTest - This is error message
-[WARN ] 2022-11-29 15:26:50.436 [main] Log4jTest - This is warning  message
-[FATAL] 2022-11-29 15:26:50.437 [main] Log4jTest - This is a fatal message
+[INFO ] 2022-11-29 17:07:41.539 [main] Log4jTest - This is information
+[ERROR] 2022-11-29 17:07:41.552 [main] Log4jTest - This is error message
+[WARN ] 2022-11-29 17:07:41.552 [main] Log4jTest - This is warning  message
+[FATAL] 2022-11-29 17:07:41.553 [main] Log4jTest - This is a fatal message
+[DEBUG] 2022-11-29 17:10:11.755 [main] LoggingDemo - opening webiste
+[DEBUG] 2022-11-29 17:10:11.777 [main] LoggingDemo - entering weight
+[DEBUG] 2022-11-29 17:10:11.946 [main] LoggingDemo - selecting kilograms
+[DEBUG] 2022-11-29 17:10:12.042 [main] LoggingDemo - selecting height in feet
+[DEBUG] 2022-11-29 17:10:12.150 [main] LoggingDemo - selecting height in inchs
+[DEBUG] 2022-11-29 17:10:12.238 [main] LoggingDemo - Clicking on calculate
+[DEBUG] 2022-11-29 17:10:12.958 [main] LoggingDemo - Getting SIUnit value
+[DEBUG] 2022-11-29 17:10:13.060 [main] LoggingDemo - Getting USUnit value
+[DEBUG] 2022-11-29 17:10:13.121 [main] LoggingDemo - Getting UKUnit value
+[DEBUG] 2022-11-29 17:10:13.161 [main] LoggingDemo - Getting overall description
